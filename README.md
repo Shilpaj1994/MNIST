@@ -51,81 +51,82 @@ Estimated Total Size (MB): 0.60
 ### Training Logs
 ```
 Epoch 1:
-    Loss=0.28947052359580994 batch_id=937: 100%|██████████| 938/938 [01:08<00:00, 13.63it/s]
-    Test set: Average loss: 0.0776, Accuracy: 9803/10000 (98.03%)
+    Loss=0.2085336595773697 batch_id=468: 100%|██████████| 469/469 [01:03<00:00,  7.43it/s] 
+    Test set: Average loss: 0.0904, Accuracy: 9825/10000 (98.25%)
 
 Epoch 2:
-    Loss=0.07014646381139755 batch_id=937: 100%|██████████| 938/938 [01:09<00:00, 13.43it/s] 
-    Test set: Average loss: 0.0489, Accuracy: 9872/10000 (98.72%)
+    Loss=0.12635397911071777 batch_id=468: 100%|██████████| 469/469 [00:59<00:00,  7.84it/s] 
+    Test set: Average loss: 0.0552, Accuracy: 9873/10000 (98.73%)
 
 Epoch 3:
-    Loss=0.2854246497154236 batch_id=937: 100%|██████████| 938/938 [01:09<00:00, 13.48it/s]  
-    Test set: Average loss: 0.0375, Accuracy: 9897/10000 (98.97%)
+    Loss=0.08278200030326843 batch_id=468: 100%|██████████| 469/469 [01:03<00:00,  7.37it/s] 
+    Test set: Average loss: 0.0436, Accuracy: 9882/10000 (98.82%)
 
 Epoch 4:
-    Loss=0.0366009958088398 batch_id=937: 100%|██████████| 938/938 [01:09<00:00, 13.46it/s]  
-    Test set: Average loss: 0.0330, Accuracy: 9901/10000 (99.01%)
+    Loss=0.06628762185573578 batch_id=468: 100%|██████████| 469/469 [00:59<00:00,  7.85it/s] 
+    Test set: Average loss: 0.0358, Accuracy: 9913/10000 (99.13%)
 
 Epoch 5:
-    Loss=0.06880800426006317 batch_id=937: 100%|██████████| 938/938 [01:09<00:00, 13.59it/s] 
-    Test set: Average loss: 0.0305, Accuracy: 9909/10000 (99.09%)
+    Loss=0.04646427556872368 batch_id=468: 100%|██████████| 469/469 [01:00<00:00,  7.71it/s] 
+    Test set: Average loss: 0.0403, Accuracy: 9891/10000 (98.91%)
 
 Epoch 6:
-    Loss=0.03607328608632088 batch_id=937: 100%|██████████| 938/938 [01:10<00:00, 13.39it/s] 
-    Test set: Average loss: 0.0343, Accuracy: 9912/10000 (99.12%)
+    Loss=0.0820210725069046 batch_id=468: 100%|██████████| 469/469 [01:01<00:00,  7.64it/s]  
+    Test set: Average loss: 0.0318, Accuracy: 9910/10000 (99.10%)
 
 Epoch 7:
-    Loss=0.057786960154771805 batch_id=937: 100%|██████████| 938/938 [01:09<00:00, 13.44it/s] 
-    Test set: Average loss: 0.0282, Accuracy: 9916/10000 (99.16%)
+    Loss=0.0731586217880249 batch_id=468: 100%|██████████| 469/469 [01:07<00:00,  6.98it/s]  
+    Test set: Average loss: 0.0336, Accuracy: 9907/10000 (99.07%)
 
 Epoch 8:
-    Loss=0.07292156666517258 batch_id=937: 100%|██████████| 938/938 [01:11<00:00, 13.20it/s]  
-    Test set: Average loss: 0.0259, Accuracy: 9925/10000 (99.25%)
+    Loss=0.10490330308675766 batch_id=468: 100%|██████████| 469/469 [01:05<00:00,  7.12it/s] 
+    Test set: Average loss: 0.0271, Accuracy: 9930/10000 (99.30%)
 
 Epoch 9:
-    Loss=0.04495275393128395 batch_id=937: 100%|██████████| 938/938 [01:11<00:00, 13.06it/s]  
-    Test set: Average loss: 0.0261, Accuracy: 9918/10000 (99.18%)
+    Loss=0.05066375061869621 batch_id=468: 100%|██████████| 469/469 [01:05<00:00,  7.18it/s] 
+    Test set: Average loss: 0.0316, Accuracy: 9911/10000 (99.11%)
 
 Epoch 10:
-    Loss=0.14885707199573517 batch_id=937: 100%|██████████| 938/938 [01:10<00:00, 13.31it/s]  
-    Test set: Average loss: 0.0248, Accuracy: 9921/10000 (99.21%)
+    Loss=0.05262778699398041 batch_id=468: 100%|██████████| 469/469 [01:07<00:00,  6.94it/s] 
+    Test set: Average loss: 0.0260, Accuracy: 9930/10000 (99.30%)
 
 Epoch 11:
-    Loss=0.24523553252220154 batch_id=937: 100%|██████████| 938/938 [01:08<00:00, 13.62it/s]  
-    Test set: Average loss: 0.0246, Accuracy: 9923/10000 (99.23%)
+    Loss=0.011290161870419979 batch_id=468: 100%|██████████| 469/469 [01:06<00:00,  7.10it/s]
+    Test set: Average loss: 0.0242, Accuracy: 9936/10000 (99.36%)
 
 Epoch 12:
-    Loss=0.11862791329622269 batch_id=937: 100%|██████████| 938/938 [01:07<00:00, 13.88it/s]  
-    Test set: Average loss: 0.0264, Accuracy: 9922/10000 (99.22%)
+    Loss=0.11191428452730179 batch_id=468: 100%|██████████| 469/469 [01:06<00:00,  7.02it/s] 
+    Test set: Average loss: 0.0286, Accuracy: 9922/10000 (99.22%)
 
 Epoch 13:
-    Loss=0.01858886145055294 batch_id=937: 100%|██████████| 938/938 [01:05<00:00, 14.37it/s]  
-    Test set: Average loss: 0.0224, Accuracy: 9920/10000 (99.20%)
+    Loss=0.07382076978683472 batch_id=468: 100%|██████████| 469/469 [01:06<00:00,  7.04it/s] 
+    Test set: Average loss: 0.0256, Accuracy: 9929/10000 (99.29%)
 
 Epoch 14:
-    Loss=0.0641234964132309 batch_id=937: 100%|██████████| 938/938 [01:01<00:00, 15.20it/s]   
-    Test set: Average loss: 0.0205, Accuracy: 9932/10000 (99.32%)
+    Loss=0.03881983086466789 batch_id=468: 100%|██████████| 469/469 [01:05<00:00,  7.14it/s] 
+    Test set: Average loss: 0.0242, Accuracy: 9926/10000 (99.26%)
 
 Epoch 15:
-    Loss=0.031853724271059036 batch_id=937: 100%|██████████| 938/938 [01:03<00:00, 14.80it/s] 
-    Test set: Average loss: 0.0230, Accuracy: 9924/10000 (99.24%)
+    Loss=0.013535715639591217 batch_id=468: 100%|██████████| 469/469 [01:07<00:00,  6.92it/s]
+    Test set: Average loss: 0.0264, Accuracy: 9927/10000 (99.27%)
 
 Epoch 16:
-    Loss=0.09746672958135605 batch_id=937: 100%|██████████| 938/938 [01:05<00:00, 14.26it/s]  
-    Test set: Average loss: 0.0219, Accuracy: 9932/10000 (99.32%)
+    Loss=0.03432683274149895 batch_id=468: 100%|██████████| 469/469 [01:02<00:00,  7.48it/s] 
+    Test set: Average loss: 0.0251, Accuracy: 9924/10000 (99.24%)
 
 Epoch 17:
-    Loss=0.06531140208244324 batch_id=937: 100%|██████████| 938/938 [01:01<00:00, 15.27it/s]  
-    Test set: Average loss: 0.0200, Accuracy: 9941/10000 (99.41%)
+    Loss=0.032912593334913254 batch_id=468: 100%|██████████| 469/469 [01:04<00:00,  7.26it/s]
+    Test set: Average loss: 0.0226, Accuracy: 9939/10000 (99.39%)
 
 Epoch 18:
-    Loss=0.05266764760017395 batch_id=937: 100%|██████████| 938/938 [01:01<00:00, 15.37it/s]  
-    Test set: Average loss: 0.0241, Accuracy: 9922/10000 (99.22%)
+    Loss=0.05373332276940346 batch_id=468: 100%|██████████| 469/469 [01:07<00:00,  6.93it/s] 
+    Test set: Average loss: 0.0256, Accuracy: 9916/10000 (99.16%)
 
 Epoch 19:
-    Loss=0.02180585078895092 batch_id=937: 100%|██████████| 938/938 [01:00<00:00, 15.46it/s]  
-    Test set: Average loss: 0.0220, Accuracy: 9938/10000 (99.38%)
+    Loss=0.06821335107088089 batch_id=468: 100%|██████████| 469/469 [01:07<00:00,  6.98it/s] 
+    Test set: Average loss: 0.0208, Accuracy: 9940/10000 (99.40%)
 
 Epoch 20:
-    Loss=0.0489509217441082 batch_id=937: 100%|██████████| 938/938 [01:00<00:00, 15.49it/s]   
-    Test set: Average loss: 0.0196, Accuracy: 9943/10000 (99.43%)
+    Loss=0.06556873023509979 batch_id=468: 100%|██████████| 469/469 [01:06<00:00,  7.03it/s] 
+    Test set: Average loss: 0.0239, Accuracy: 9938/10000 (99.38%)
+```
