@@ -1,12 +1,19 @@
-# README
+# MNIST CNN
 
-## TODO:
-- [ ] Excel sheet for number of layers per block
-- [ ] Excel sheet for sample architecture
-- [ ] Satyajit target 6 epochs, 99.4% accuracy under 3.6K params
+## Target
+- 99.4% accuracy under 20K params and 20 epochs
 
 
-### Model Summary
+## Directory Structure
+- `data/`: MNIST Dataset
+- `model.py`: Model Definition
+- `EVA3_6.ipynb`: Jupyter Notebook for Training and Testing
+- `test_mnist.py`: Test Cases
+- `README.md`: README file
+- `requirements.txt`: Required Packages
+
+
+## Model Summary
 ```
 ----------------------------------------------------------------
         Layer (type)               Output Shape         Param #
@@ -48,7 +55,7 @@ Estimated Total Size (MB): 0.60
 ----------------------------------------------------------------
 ```
 
-### Training Logs
+## Training Logs
 ```
 Epoch 1:
     Loss=0.2085336595773697 batch_id=468: 100%|██████████| 469/469 [01:03<00:00,  7.43it/s] 
@@ -129,4 +136,23 @@ Epoch 19:
 Epoch 20:
     Loss=0.06556873023509979 batch_id=468: 100%|██████████| 469/469 [01:06<00:00,  7.03it/s] 
     Test set: Average loss: 0.0239, Accuracy: 9938/10000 (99.38%)
+```
+
+---
+
+## Setup
+
+1. Clone the repository
+```bash
+$ git clone https://github.com/Shilpaj1994/MNIST
+```
+
+2. Install the required packages
+```bash
+$ pip install -r requirements.txt
+```
+
+3. Run the Jupyter Notebook
+```bash
+$ jupyter notebook EVA3_6.ipynb
 ```
